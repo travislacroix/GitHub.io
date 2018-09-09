@@ -1,0 +1,45 @@
+body {
+	position: relative;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	margin-top: 40px;
+}
+
+footer {
+	margin-top: 40px;
+}
+
+.navbar-clear {
+	box-shadow: none;
+	background-color: white;
+	border-color: white;
+}
+
+.no-box-shadow {
+	box-shadow: none;
+}
+
+.code-label {
+	font-size: 16px;
+	color: #666;
+}
+
+.no-bot-margin {
+	margin-bottom: 0;
+}
+
+.navbar .nav li {
+	width: 100px; /* or whatever width you want for items */
+	display: inline-block;
+	float: none;
+}
+
+.navbar .nav {
+	float: none;
+	text-align: center;
+}
