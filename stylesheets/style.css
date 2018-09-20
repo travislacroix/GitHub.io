@@ -14,6 +14,26 @@ footer {
 	margin-top: 40px;
 }
 
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
 .navbar-clear {
 	box-shadow: none;
 	background-color: white;
